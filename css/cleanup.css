@@ -8,6 +8,6 @@
   display: none;
 }
 
-div#tag-3[class$="wicked"]{
+div#wall #tag-3[class$="wicked"]{
   display: none;
 }
